@@ -2,9 +2,9 @@
 
 I'm an independent data scientist whose primary interests are in [dataset curation](https://blog.ceshine.net/post/text-annotation-1/), [data visualization and analysis](https://medium.com/the-artificial-impostor/an-analysis-of-the-impact-of-chinese-tourism-ban-to-taiwan-c9b6582ef183), and compute-efficient machine learning ([CV](https://github.com/ceshine/yt8m-2019) and [NLP](https://github.com/ceshine/oggdo)). I speak Python, R, and a bit of Julia and Go.
 
-I provide [consulting services](https://www.veritable.pw) remotely to organizations around the globe. Drop me an [email](mailto://ceshine@veritable.pw) or [DM me on Twitter](https://twitter.com/ceshine_en) if you're interested.
+I provide [consulting services](https://www.veritable.pw) remotely to organizations around the globe. Drop me an [email](mailto://ceshine@veritable.pw) if you're interested.
 
-I'm also a Kaggle competition master and still participate in competitions from time to time. I try to open-source all my non-trash competition solutions here on Github. A list of links will be posted soon.
+I'm also a Kaggle competition master and still participate in competitions from time to time. I try to open-source all my non-trash competition solutions here on Github. A list of them can [be found here](https://gist.github.com/ceshine/0f8580c93704a947af943ded5c340ed4).
 
 [![Ceshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceshine)](https://github.com/ceshine)
 
