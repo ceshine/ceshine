@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm an independent data scientist whose primary interests are in [dataset curation](https://blog.ceshine.net/post/text-annotation-1/), [data visualization and analysis](https://medium.com/the-artificial-impostor/an-analysis-of-the-impact-of-chinese-tourism-ban-to-taiwan-c9b6582ef183), and compute-efficient machine learning ([CV](https://github.com/ceshine/yt8m-2019) and [NLP](https://github.com/ceshine/oggdo)). I speak Python, R, and a bit of Julia and Go.
+I am an independent machine learning practitioner providing remote consulting services to organizations globally. I have helped clients build in-house document understanding systems processing tens of thousands of requests daily (facilitating over a million USD in weekly transactions), end-to-end product recommendation engines for e-commerce, and data pipelines for both real-time monitoring and offline curation. I specialize in technical leadership for fully remote AI/ML teams, but also have people management experience from previous roles.
 
-I provide [consulting services](https://www.veritable.pw) remotely to organizations around the globe. Drop me an [email](mailto://ceshine@veritable.pw) if you're interested.
+I am currently on sabbatical to explore new technologies, resume my public [technical writing](https://blog.ceshine.net), contribute to open source, and recharge. Nonetheless, feel free to reach out via [email](mailto://ceshine@veritable.pw) or [Twitter/X](https://x.com/ceshine_en) if you have interesting projects to discuss.
 
-I'm also a Kaggle competition master and still participate in competitions from time to time. I try to open-source all my non-trash competition solutions here on Github. A list of them can [be found here](https://gist.github.com/ceshine/0f8580c93704a947af943ded5c340ed4).
+I am a [Kaggle Competitions Master](https://www.kaggle.com/ceshine) with a peak global rank of 63. While I have not participated as frequently in recent years due to other obligations, a list of my viable competition solutions published on GitHub can [be found here](https://gist.github.com/ceshine/0f8580c93704a947af943ded5c340ed4).
+
+My core tech stack includes Python, Polars, PyTorch, PyTorch Lightning, FastAPI, and Pydantic. I am currently expanding into Rust and PyO3 to build high-performance Python extensions. I also use React to build front-ends for personal projects. While I have past experience with R and Julia, I am not actively using them at the moment.
 
 [![Ceshine's GitHub stats](https://githubcard.com/ceshine.svg?d=z7zI67Ke)](https://github.com/ceshine)
 
