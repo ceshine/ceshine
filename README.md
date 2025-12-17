@@ -6,7 +6,7 @@ I provide [consulting services](https://www.veritable.pw) remotely to organizati
 
 I'm also a Kaggle competition master and still participate in competitions from time to time. I try to open-source all my non-trash competition solutions here on Github. A list of them can [be found here](https://gist.github.com/ceshine/0f8580c93704a947af943ded5c340ed4).
 
-[![Ceshine's GitHub stats](https://githubcard.com/ceshine.svg?d=lxDMdC7d)](https://github.com/ceshine)
+[![Ceshine's GitHub stats](https://githubcard.com/ceshine.svg?d=z7zI67Ke)](https://github.com/ceshine)
 
 <!--
 **ceshine/ceshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
